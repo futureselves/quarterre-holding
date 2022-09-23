@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Future Selves -- Brand Design & Website -- https://futureselves.uk/
+    Jason Bradberry -- Design & Development -- https://www.linkedin.com/in/jasonbradberry/
+
+# THANKS
+
+    Emily Penny –- Brand Strategy -- https://www.linkedin.com/in/emily-penny/
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, Normalize.css
